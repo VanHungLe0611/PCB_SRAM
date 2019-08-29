@@ -207,6 +207,8 @@
 <text x="5.8" y="-0.4" size="1.016" layer="21" rot="R90">VDD
 </text>
 <text x="2.9" y="40.4" size="1.016" layer="21" rot="R90">RST</text>
+<dimension x1="-1.7" y1="45.7" x2="40.1" y2="45.8" x3="19.2002375" y3="45.650003125" textsize="1.778" layer="1"/>
+<dimension x1="43.6" y1="43.5" x2="43.6" y2="-1.2" x3="43.2" y3="21.15" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="memory-issi-asynsram">
